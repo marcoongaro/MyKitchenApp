@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="select">Scegli ingrediente.</string>
+
+    <string-array name="misure">
+        <item>     g  </item>
+        <item>     Kg  </item>
+        <item>     l  </item>
+        <item>     cl  </item>
+        <item>     ml  </item>
+    </string-array>
+
+    <string-array name="ingredienti">
+        <item>     Abbacchio  </item>
+        <item>     Acciuga    </item>
+        <item>     Aceto  </item>
+        <item>     Aglio  </item>
+        <item>     Agnello    </item>
+        <item>     Albicocca  </item>
+        <item>     Amaretti   </item>
+        <item>     Ananas </item>
+        <item>     Anatra </item>
+        <item>     Anguria    </item>
+        <item>     Arachidi   </item>
+        <item>     Aragosta   </item>
+        <item>     Arancia    </item>
+        <item>     Aringa </item>
+        <item>     Arrosto (carne bovina) </item>
+        <item>     Arrosto (carne di vitello) </item>
+        <item>     Asparagi   </item>
+        <item>     Astice </item>
+        <item>     Avocado    </item>
+        <item>     Baguette   </item>
+        <item>     Banana </item>
+        <item>     Barbabietola   </item>
+        <item>     Bavarese   </item>
+        <item>     Besciamella    </item>
+        <item>     Birra  </item>
+        <item>     Biscotti   </item>
+        <item>     Braciola (carne di vitello)    </item>
+        <item>     Braciola (carne ovina) </item>
+        <item>     Braciola (carne suina) </item>
+        <item>     Bresaola   </item>
+        <item>     Brie   </item>
+        <item>     Broccoli   </item>
+        <item>     Brodo  </item>
+        <item>     Burro  </item>
+        <item>     Caffè  </item>
+        <item>     Calamaro  </item>
+        <item>     Camembert  </item>
+        <item>     Camomilla  </item>
+        <item>     Canestrelli    </item>
+        <item>     Cantuccini </item>
+        <item>     Capesante  </item>
+        <item>     Cappone    </item>
+        <item>     Capretto   </item>
+        <item>     Carciofo   </item>
+        <item>     Carota </item>
+        <item>     Carpa  </item>
+        <item>     Carpaccio  </item>
+        <item>     Castagne   </item>
+        <item>     Cavallo    </item>
+        <item>     Cavolfiore </item>
+        <item>     Cavolini di bruxelles  </item>
+        <item>     Ceci   </item>
+        <item>     Cetriolo   </item>
+        <item>     Champagne  </item>
+        <item>     Cheesecake </item>
+        <item>     Ciliegia   </item>
+        <item>     Cinghiale  </item>
+        <item>     Cioccolato al latte    </item>
+        <item>     Cioccolato alle nocciole   </item>
+        <item>     Cioccolato bianco  </item>
+        <item>     Cioccolato fondente    </item>
+        <item>     Cipolla    </item>
+        <item>     Cocomero   </item>
+        <item>     Coniglio   </item>
+        <item>     Coscia (carne bovina)  </item>
+        <item>     Coscia (carne di vitello)  </item>
+        <item>     Coscia (carne ovina)   </item>
+        <item>     Coscia (carne suina)   </item>
+        <item>     Coscia di pollo    </item>
+        <item>     Cotechino  </item>
+        <item>     Cotoletta alla Milanese    </item>
+        <item>     Cotoletta  </item>
+        <item>     Cous cous  </item>
+        <item>     Cozze  </item>
+        <item>     Crackers integrali </item>
+        <item>     Crackers   </item>
+        <item>     Crema Chantilly    </item>
+        <item>     Crema pasticcera   </item>
+        <item>     Croccante  </item>
+        <item>     Crostata di frutta </item>
+        <item>     Crusca di grano    </item>
+        <item>     Cuore (carne bovina)   </item>
+        <item>     Cuore (carne di vitello)   </item>
+        <item>     Cuore (carne ovina)    </item>
+        <item>     Cuore (carne suina)    </item>
+        <item>     Dado per brodo </item>
+        <item>     Datteri secchi </item>
+        <item>     Emmental   </item>
+        <item>     Fagiano    </item>
+        <item>     Fagioli bianchi    </item>
+        <item>     Fagiolini verdi    </item>
+        <item>     Faraona    </item>
+        <item>     Farina  </item>
+        <item>     Farina di mais integrale   </item>
+        <item>     Farro  </item>
+        <item>     Fecola di mais </item>
+        <item>     Fecola di patate   </item>
+        <item>     Fegato (carne bovina)  </item>
+        <item>     Fegato (carne di vitello)  </item>
+        <item>     Fegato (carne ovina)   </item>
+        <item>     Fegato (carne suina)   </item>
+        <item>     Fette biscottate   </item>
+        <item>     Fico secco </item>
+        <item>     Fico   </item>
+        <item>     Filetti di merluzzo    </item>
+        <item>     Filetto (carne bovina) </item>
+        <item>     Filetto (carne di vitello) </item>
+        <item>     Filetto (carne ovina)  </item>
+        <item>     Filetto (carne suina)  </item>
+        <item>     Finocchio  </item>
+        <item>     Fiocchi di avena   </item>
+        <item>     Fontina    </item>
+        <item>     Formaggio di Capra </item>
+        <item>     Formaggio fresco   </item>
+        <item>     Fragola    </item>
+        <item>     Gamberetti </item>
+        <item>     Gamberi    </item>
+        <item>     Gnocchi di patate  </item>
+        <item>     Gnocchi di semolino    </item>
+        <item>     Gorgonzola </item>
+        <item>     Gruviera   </item>
+        <item>     Insalata russa </item>
+        <item>     Involtino  </item>
+        <item>     Ketchup    </item>
+        <item>     Kiwi   </item>
+        <item>     Lamponi    </item>
+        <item>     Lardo  </item>
+        <item>     Latte di mandorla  </item>
+        <item>     Latte intero   </item>
+        <item>     Latte parzialmente scremato    </item>
+        <item>     Latte scremato </item>
+        <item>     Lenticchie </item>
+        <item>     Lepre  </item>
+        <item>     Limone </item>
+        <item>     Lingua (carne bovina)  </item>
+        <item>     Lingua (carne di vitello)  </item>
+        <item>     Lingua (carne ovina)   </item>
+        <item>     Lingua (carne suina)   </item>
+        <item>     Lingue di gatto (biscotti) </item>
+        <item>     Macinato (carne bovina)    </item>
+        <item>     Macinato (carne suina) </item>
+        <item>     Maionese   </item>
+        <item>     Mais in scatola    </item>
+        <item>     Mandarino  </item>
+        <item>     Mandorle   </item>
+        <item>     Mango  </item>
+        <item>     Manzo salato   </item>
+        <item>     Margarina vegetale </item>
+        <item>     Marzapane  </item>
+        <item>     Mascarpone </item>
+        <item>     Mazzancollle   </item>
+        <item>     Mela   </item>
+        <item>     Melanzana  </item>
+        <item>     Melone </item>
+        <item>     Miele  </item>
+        <item>     Mirtilli   </item>
+        <item>     More   </item>
+        <item>     Mortadella </item>
+        <item>     Mozzarella di bufala   </item>
+        <item>     Mozzarella di mucca    </item>
+        <item>     Muesli </item>
+        <item>     Nasello    </item>
+        <item>     Nocciole   </item>
+        <item>     Noci   </item>
+        <item>     Olio di cocco  </item>
+        <item>     Olio di palma  </item>
+        <item>     Olio vegetale  </item>
+        <item>     Olive nere in salamoia </item>
+        <item>     Olive verdi in salamoia    </item>
+        <item>     Orata  </item>
+        <item>     Orzo   </item>
+        <item>     Ossobuco   </item>
+        <item>     Ostriche   </item>
+        <item>     Pancetta affumicata    </item>
+        <item>     Pancetta   </item>
+        <item>     Pandoro    </item>
+        <item>     Pane bianco    </item>
+        <item>     Pane integrale di grano    </item>
+        <item>     Panettone  </item>
+        <item>     Panforte   </item>
+        <item>     Panna cotta    </item>
+        <item>     Panna da cucina    </item>
+        <item>     Panna dolce    </item>
+        <item>     Papaya </item>
+        <item>     Parmigiano </item>
+        <item>     Pasta  </item>
+        <item>     Pasta brisè  </item>
+        <item>     Pasta di mandorle  </item>
+        <item>     Pasta di semola (cotta)    </item>
+        <item>     Pasta frolla   </item>
+        <item>     Pasta integrale (cotta)    </item>
+        <item>     Pasta sfoglia  </item>
+        <item>     Patata </item>
+        <item>     Pecorino fresco    </item>
+        <item>     Peperone   </item>
+        <item>     Pera   </item>
+        <item>     Pesca  </item>
+        <item>     Pesce Persico  </item>
+        <item>     Pesce spada    </item>
+        <item>     Pesto  </item>
+        <item>     Petto (carne bovina)   </item>
+        <item>     Petto (carne di pollo) </item>
+        <item>     Petto (carne di vitello)   </item>
+        <item>     Pinoli </item>
+        <item>     Piselli    </item>
+        <item>     Pistacchio </item>
+        <item>     Polenta    </item>
+        <item>     Pollo arrosto  </item>
+        <item>     Pollo da brodo </item>
+        <item>     Polpo  </item>
+        <item>     Pomodoro   </item>
+        <item>     Pompelmo   </item>
+        <item>     Popcorn    </item>
+        <item>     Porchetta  </item>
+        <item>     Porcino fresco </item>
+        <item>     Porcino secco  </item>
+        <item>     Porro  </item>
+        <item>     Prosciutto cotto   </item>
+        <item>     Prosciutto crudo   </item>
+        <item>     Provolone  </item>
+        <item>     Prugna secca   </item>
+        <item>     Prugna </item>
+        <item>     Quaglia    </item>
+        <item>     Ragù bolognese    </item>
+        <item>     Ravanelli  </item>
+        <item>     Ribes  </item>
+        <item>     Riccio di mare </item>
+        <item>     Ricciola   </item>
+        <item>     Riso   </item>
+        <item>     Roastbeef  </item>
+        <item>     Rognone (carne di vitello) </item>
+        <item>     Salame </item>
+        <item>     Salmone affumicato </item>
+        <item>     Salmone    </item>
+        <item>     Salsa di pomodoro  </item>
+        <item>     Salsa di soia  </item>
+        <item>     Salsa rosa </item>
+        <item>     Salsa tartara  </item>
+        <item>     Salsa tonnata  </item>
+        <item>     Salsiccia di maiale    </item>
+        <item>     Salsiccia di pollo </item>
+        <item>     Salsiccia di vitello   </item>
+        <item>     Sardina    </item>
+        <item>     Scaloppina (carne di vitello)  </item>
+        <item>     Scaloppina (carne ovina)   </item>
+        <item>     Scaloppina (carne suina)   </item>
+        <item>     Scorfano   </item>
+        <item>     Sedano </item>
+        <item>     Semi di zucca  </item>
+        <item>     Semolino di grano  </item>
+        <item>     Semolino   </item>
+        <item>     Seppia </item>
+        <item>     Sgombro    </item>
+        <item>     Sogliola   </item>
+        <item>     Soia   </item>
+        <item>     Soppressata    </item>
+        <item>     Spaghetti  </item>
+        <item>     Spalla (carne bovina)  </item>
+        <item>     Spalla (carne suina)   </item>
+        <item>     Speck  </item>
+        <item>     Spinaci freschi    </item>
+        <item>     Spremuta di pompelmo   </item>
+        <item>     Spumante secco </item>
+        <item>     Stinco (carne di vitello)  </item>
+        <item>     Stinco (carne suina)   </item>
+        <item>     Strutto di maiale  </item>
+        <item>     Succo di pomodoro  </item>
+        <item>     Tacchino </item>
+        <item>     Tartufo    </item>
+        <item>     Tonno  </item>
+        <item>     Totani </item>
+        <item>     Triglia    </item>
+        <item>     Trota  </item>
+        <item>     Tuorlo </item>
+        <item>     Uovo intero    </item>
+        <item>     Uva secca  </item>
+        <item>     Uva    </item>
+        <item>     Verza  </item>
+        <item>     Vino bianco secco  </item>
+        <item>     Vino rosso secco   </item>
+        <item>     Vodka  </item>
+        <item>     Vongole    </item>
+        <item>     Wafer  </item>
+        <item>     Wurstel    </item>
+        <item>     Yogurt magro   </item>
+        <item>     Yogurt naturale    </item>
+        <item>     Zabaione   </item>
+        <item>     Zampone    </item>
+        <item>     Zucca  </item>
+        <item>     Zucchero bianco    </item>
+        <item>     Zucchero grezzo    </item>
+        <item>     Zucchine   </item>
+    </string-array>
+
+</resources>

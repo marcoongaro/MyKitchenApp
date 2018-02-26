@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:23.1.0] C:\Users\MrAlieno\.gradle\caches\transforms-1\files-1.1\design-23.1.0.aar\124036668e865b55da6ffbe66ee7142e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.1.0] C:\Users\MrAlieno\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.0.aar\7971c8432895a1dcf5522ad7085176b9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:recyclerview-v7:23.1.0] C:\Users\MrAlieno\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.1.0.aar\57dc39d0c79d400a23bbf5a69f9387ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\MrAlieno\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.0.aar\eeed12caa883da5d8155aeb0f6330df8\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:5:5-30:19
+MERGED from [com.android.support:design:23.1.0] C:\Users\MrAlieno\.gradle\caches\transforms-1\files-1.1\design-23.1.0.aar\124036668e865b55da6ffbe66ee7142e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.0] C:\Users\MrAlieno\.gradle\caches\transforms-1\files-1.1\design-23.1.0.aar\124036668e865b55da6ffbe66ee7142e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.0] C:\Users\MrAlieno\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.0.aar\7971c8432895a1dcf5522ad7085176b9\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.0] C:\Users\MrAlieno\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.0.aar\7971c8432895a1dcf5522ad7085176b9\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\MrAlieno\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.0.aar\eeed12caa883da5d8155aeb0f6330df8\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\MrAlieno\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.0.aar\eeed12caa883da5d8155aeb0f6330df8\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:7:9-45
+	android:allowBackup
+		ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:6:9-36
+	android:theme
+		ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:10:9-67
+activity#com.example.mykitchenapp.SplashActivity
+ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:11:9-19:20
+	android:screenOrientation
+		ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:13:13-49
+	android:theme
+		ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:12:13-69
+	android:name
+		ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:11:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.example.mykitchenapp.MainActivity
+ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:20:9-24:16
+	android:screenOrientation
+		ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:23:13-49
+	android:label
+		ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:22:13-44
+	android:name
+		ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:21:13-41
+activity#com.example.mykitchenapp.EnterDataActivity
+ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:25:9-28:20
+	android:screenOrientation
+		ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:27:13-49
+	android:label
+		ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml:25:19-52
+uses-sdk
+INJECTED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:23.1.0] C:\Users\MrAlieno\.gradle\caches\transforms-1\files-1.1\design-23.1.0.aar\124036668e865b55da6ffbe66ee7142e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.0] C:\Users\MrAlieno\.gradle\caches\transforms-1\files-1.1\design-23.1.0.aar\124036668e865b55da6ffbe66ee7142e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.0] C:\Users\MrAlieno\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.0.aar\7971c8432895a1dcf5522ad7085176b9\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.0] C:\Users\MrAlieno\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.0.aar\7971c8432895a1dcf5522ad7085176b9\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.0] C:\Users\MrAlieno\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.1.0.aar\57dc39d0c79d400a23bbf5a69f9387ba\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.0] C:\Users\MrAlieno\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.1.0.aar\57dc39d0c79d400a23bbf5a69f9387ba\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\MrAlieno\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.0.aar\eeed12caa883da5d8155aeb0f6330df8\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\MrAlieno\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.0.aar\eeed12caa883da5d8155aeb0f6330df8\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MrAlieno\Desktop\MyKitchenApp\app\src\main\AndroidManifest.xml

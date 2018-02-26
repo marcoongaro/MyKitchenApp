@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="#ffffff">
+
+    <ListView
+        android:id="@+id/list_data"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_marginStart="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginRight="5dp"
+        android:divider="#bdbdbd"
+        android:dividerHeight="1sp"
+        android:footerDividersEnabled="true"
+        android:headerDividersEnabled="false"
+        android:clickable="true"
+        android:longClickable="true"/>
+
+    <TextView
+        android:id="@+id/empty_list_item"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        android:text="Vuoto"
+        android:layout_marginTop="15dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="10dp"
+        android:textSize="22sp"
+        android:textColor="#bdbdbd"
+        android:textAlignment="center"/>
+
+    <ImageButton
+        android:id="@+id/addbutton"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:background="@drawable/add_button"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="13dp"
+        android:layout_marginEnd="13dp"
+        android:layout_marginRight="13dp"
+        tools:ignore="ContentDescription"
+        android:onClick="onClickEnterData"/>
+
+</RelativeLayout>

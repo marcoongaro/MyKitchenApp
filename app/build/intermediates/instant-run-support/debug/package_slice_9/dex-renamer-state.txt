@@ -1,0 +1,4 @@
+#Tue Feb 13 14:04:02 GMT 2018
+base.0=C\:\\Users\\MrAlieno\\Desktop\\MyKitchenApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

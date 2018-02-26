@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff">
+
+    <TextView android:id="@+id/et_ingredient_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:textSize="19dp"
+        android:hint="Scegli ingrediente" />
+
+    <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="60dp">
+        <RadioButton android:id="@+id/ingredienti_predefiniti"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" da predefiniti"
+            android:onClick="onRadioButtonClicked"/>
+        <Spinner
+            android:id="@+id/ingredient_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="19dp"
+            android:layout_marginLeft="35dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="10dp"
+            android:entries="@array/ingredienti"
+            android:layout_below="@+id/et_ingredient_name" />
+        <RadioButton android:id="@+id/inserimento_manuale"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" inserimento manuale"
+            android:checked="true"
+            android:layout_marginTop="20dp"
+            android:onClick="onRadioButtonClicked"/>
+        <EditText android:id="@+id/et_new_ingredient"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:layout_marginLeft="35dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="5dp"
+            android:hint="Inserisci nome"
+            android:inputType="textCapSentences"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+        <EditText android:id="@+id/et_ingredient_quantity"
+            android:layout_width="170dp"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="35dp"
+            android:layout_marginRight="10dp"
+            android:hint="Inserisci quantità"
+            android:inputType="number" />
+
+        <Spinner android:id="@+id/et_ingredient_unity"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="35dp"
+            android:layout_marginRight="15dp"
+            android:hint=" Unità"
+            android:inputType="text"
+            android:entries="@array/misure"/>
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView android:id="@+id/dateDisplay"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Data di scadenza"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="43dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="15dp"
+                android:textSize="19dp"/>
+
+            <TextView android:id="@+id/dateSort"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Data"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="65dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="15dp"
+                android:textSize="19dp"
+                android:visibility="invisible"/>
+
+            <Button android:id="@+id/et_ingredient_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" Data di scadenza "
+                android:layout_alignParentLeft="true"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="30dp"
+                android:drawableLeft="@drawable/ic_date"/>
+
+        </RelativeLayout>
+    </RadioGroup>
+</RelativeLayout>
